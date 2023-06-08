@@ -17,6 +17,7 @@
 
 ## [LibsControll](https://github.com/michalnand/libs_control)
 
+![animation](images/robot_lqr.gif) 
 ![animation](images/brushless_motor.gif) 
 
 ## [motoko line following robot](https://github.com/michalnand/motoko_uprising_new)
